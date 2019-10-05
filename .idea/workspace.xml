@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4572a74-e5d0-4a17-9827-b0a240a6ff3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow2/imdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow2/save_load.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf2/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf2/sample.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fashion_mnist">
+  <component name="RunManager" selected="Python.save_load">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mlearn_8" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="imdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mlearn_8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf2/regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2/imdb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tf2_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="save_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mlearn_8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf2/tf2_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2/save_load.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.save_load" />
+        <item itemvalue="Python.imdb" />
         <item itemvalue="Python.fashion_mnist" />
         <item itemvalue="Python.sample" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.regression" />
-        <item itemvalue="Python.tf2_function" />
       </list>
     </recent_temporary>
   </component>
