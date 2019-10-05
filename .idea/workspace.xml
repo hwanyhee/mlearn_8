@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4572a74-e5d0-4a17-9827-b0a240a6ff3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tensorflow2/imdb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow2/save_load.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/save_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow2/save_load.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
