@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4572a74-e5d0-4a17-9827-b0a240a6ff3c" name="Default Changelist" comment="" />
+    <list default="true" id="d4572a74-e5d0-4a17-9827-b0a240a6ff3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf2/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf2/sample.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RSVOlcjqIUJYnUxHVFq1pIgost" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tf2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -146,8 +156,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.fashion_mnist" />
-        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.sample" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.regression" />
         <item itemvalue="Python.tf2_function" />
       </list>
@@ -165,5 +175,16 @@
       <updated>1569660453382</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

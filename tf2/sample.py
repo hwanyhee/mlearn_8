@@ -27,8 +27,7 @@ test_images = test_images / 255.0
 
 model = keras.Sequential([
     keras.layers.Flatten(input_shape=(28, 28)),
-    keras.layers.Dense(128, activation='relu'),
-
+    keras.layers.Dense(256, activation='relu'),
     keras.layers.Dense(10, activation='softmax')
 ])
 
@@ -46,5 +45,5 @@ predictions = model.predict(test_images)
 print(class_names[np.argmax(predictions[0])])
 
 print(np.argmax(predictions[0]))
-print(test_labels[0])
+print(class_names[test_labels[0]])
 #print(class_names[test_labels[0]])
