@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4572a74-e5d0-4a17-9827-b0a240a6ff3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tensorflow2/cnn_mnist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/cnn_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow2/cnn_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/save_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow2/save_load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248473/assets/saved_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248473/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248473/variables/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248473/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248473/variables/variables.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248473/variables/variables.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248473/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248523/assets/saved_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248523/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248523/variables/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248523/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248523/variables/variables.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248523/variables/variables.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248523/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248704/assets/saved_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248704/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248704/variables/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248704/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248704/variables/variables.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248704/variables/variables.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248704/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248756/assets/saved_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248756/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248756/variables/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248756/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248756/variables/variables.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248756/variables/variables.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow2/saved_models/1570248756/variables/variables.index" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

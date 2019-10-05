@@ -3,6 +3,8 @@ import tensorflow as tf
 from tensorflow import keras
 import time
 
+#https://www.tensorflow.org/tutorials/keras/save_and_load
+
 class SaveLoad:
     def __init__(self):
         (self.train_images, self.train_labels), (self.test_images, self.test_labels) = tf.keras.datasets.mnist.load_data()
@@ -78,10 +80,13 @@ class SaveLoad:
     def save_model(self):
 
 
-        tf.keras.experimental.export_saved_model(self.model, self.saved_model_path)
+        #tf.keras.experimental.export_saved_model(self.model, self.saved_model_path)
+        self.model.save('./saved_models/my_model.h5')
         print(self.saved_model_path)
     def load_model(self):
-        new_model = tf.keras.experimental.load_from_saved_model(self.saved_model_path)
+        #new_model = tf.keras.experimental.load_from_saved_model(self.saved_model_path)
+        #new_model.summary()
+        new_model = keras.models.load_model('./saved_models/my_model.h5')
         new_model.summary()
 
         return new_model
