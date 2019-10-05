@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4572a74-e5d0-4a17-9827-b0a240a6ff3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tensorflow2/cnn_mnist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow2/save_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow2/save_load.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.save_load">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cnn_mnist">
+    <configuration name="cnn_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mlearn_8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2/cnn_mnist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cnn_mnist" />
         <item itemvalue="Python.save_load" />
         <item itemvalue="Python.imdb" />
         <item itemvalue="Python.fashion_mnist" />
         <item itemvalue="Python.sample" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
